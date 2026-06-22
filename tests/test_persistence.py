@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from mini_vector_db import VectorDB
+from custom_vector_db import VectorDB
 
 
 def test_save_and_load_exact_database(tmp_path: Path) -> None:

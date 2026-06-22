@@ -1,7 +1,7 @@
 import pytest
 
-from mini_vector_db.exceptions import InvalidFilterError
-from mini_vector_db.filters import matches_filter
+from custom_vector_db.exceptions import InvalidFilterError
+from custom_vector_db.filters import matches_filter
 
 
 def test_simple_equality_filter() -> None:

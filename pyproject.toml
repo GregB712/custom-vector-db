@@ -16,7 +16,7 @@ dependencies = ["numpy>=1.24"]
 dev = ["pytest>=7.4"]
 
 [project.scripts]
-custom-vector-db = "mini_vector_db.cli:main"
+custom-vector-db = "custom_vector_db.cli:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

@@ -36,7 +36,7 @@ python -m pip install -e .
 ## Basic Usage
 
 ```python
-from mini_vector_db import VectorDB
+from custom_vector_db import VectorDB
 
 db = VectorDB(dim=3, metric="cosine")
 

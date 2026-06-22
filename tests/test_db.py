@@ -1,7 +1,7 @@
 import pytest
 
-from mini_vector_db import VectorDB
-from mini_vector_db.exceptions import (
+from custom_vector_db import VectorDB
+from custom_vector_db.exceptions import (
     DimensionMismatchError,
     DuplicateIDError,
     MissingIDError,

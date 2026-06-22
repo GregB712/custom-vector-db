@@ -3,7 +3,7 @@
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from mini_vector_db import VectorDB
+from custom_vector_db import VectorDB
 
 
 def main() -> None:

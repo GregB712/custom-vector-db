@@ -1,6 +1,6 @@
 """Searching with metadata filters."""
 
-from mini_vector_db import VectorDB
+from custom_vector_db import VectorDB
 
 
 def main() -> None:

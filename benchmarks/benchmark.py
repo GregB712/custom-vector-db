@@ -8,7 +8,7 @@ import time
 
 import numpy as np
 
-from mini_vector_db import VectorDB
+from custom_vector_db import VectorDB
 
 
 def main() -> None:

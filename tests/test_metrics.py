@@ -1,8 +1,8 @@
 import numpy as np
 import pytest
 
-from mini_vector_db.exceptions import UnsupportedMetricError
-from mini_vector_db.metrics import (
+from custom_vector_db.exceptions import UnsupportedMetricError
+from custom_vector_db.metrics import (
     cosine_similarity,
     dot_product,
     euclidean_distance,
