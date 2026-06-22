@@ -1,0 +1,2 @@
+{"id": "doc-1", "vector": [1.0, 0.0, 0.0], "metadata": {"category": "article", "author": "alice", "year": 2024}}
+{"id": "doc-2", "vector": [0.0, 1.0, 0.0], "metadata": {"category": "note", "author": "bob", "year": 2023}}
